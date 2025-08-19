@@ -1,10 +1,10 @@
 {
   "session1": {
-    "SESSION_ID": "levanter_sessionid",
+    "SESSION_ID": "levanter_19e39fb3f4996d45479c547f77680cb28c",
     "PREFIX": "^[.,!]",
     "SUDO": "0",
-    "STICKER_PACKNAME": "❤️,LyFE",
-    "ALWAYS_ONLINE": "false",
+    "STICKER_PACKNAME": "Atheon",
+    "ALWAYS_ONLINE": "true",
     "RMBG_KEY": "null",
     "WARN_LIMIT": "3",
     "FORCE_LOGOUT": "false",
